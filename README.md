@@ -1,0 +1,2 @@
+Este programa identifica pangramas, que son frases que contienen todas las letras del alfabeto (a-z), ignorando mayusculas y el orden
+El tiempo de ejecucion es O(n), siendo n el numero de caracteres de s (el input)
